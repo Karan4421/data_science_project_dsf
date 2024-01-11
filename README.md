@@ -1,5 +1,6 @@
-#Classification of Red Wine Dataset
-##Abstract
+Classification of Red Wine Dataset
+
+Abstract
 This project presents a method for categorizing wines from Portugal's Minho region into quality categories. Using a dataset of 1599 observations, we developed classifiers to range wine quality from 3 (low) to 8 (high). We employed five classification techniques: k-nearest neighbor, decision tree, random forest, and naïve bayes, with random forest showing the lowest error rate.
 
 **Introduction**
